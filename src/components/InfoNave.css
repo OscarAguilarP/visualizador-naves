@@ -1,0 +1,264 @@
+.rectangle2 {
+    position: absolute;
+    width: 369px;
+    height: 398px;
+    margin: 18px;
+    margin-top: 18px;
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+}
+
+.rectangle3 {
+    position: absolute;
+    width: 369px;
+    height: 189px;
+    margin: 18px;
+    margin-top: 425px;
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+}
+
+.label-name {
+    /* Executor */
+
+    position: absolute;
+    width: 398px;
+    height: 42px;
+    text-align: center;    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    margin-top: 10px;
+
+    color: #000000;
+   
+}
+.data-name {
+
+     /* Executor-class star dreadnought */
+
+    position: absolute;
+    width: 398px;
+    height: 21px;
+    text-align: center;    
+    margin-top: 52px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    /* identical to box height */
+
+    color: #000000;
+   
+}
+
+.line {
+
+    position: absolute;
+    width: 321px;
+    height: 0px;
+    left: 24px;  
+    margin-top: 82px;
+    border: 1px solid #000000;
+    transform: rotate(0.21deg);
+}
+.label-fabricante {
+    /* Fabricante */
+
+    position: absolute;
+    width: 398px;
+    height: 28px;
+    text-align: center;
+    margin-top: 102px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+   
+}
+.data-fabricante {
+    position: absolute;
+    width: 398px;
+    height: 21px;
+    margin-top: 130px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    /* identical to box height */
+
+    color: #000000;
+
+}
+.label-largo {
+    /* Largo */
+
+    position: absolute;
+    width: 398px;
+    height: 28px;
+    margin-top: 172px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+.data-largo {
+
+    /* 19.000 fts. */
+
+    position: absolute;
+    width: 398px;
+    height: 21px;
+    left: 177px;
+    margin-top: 200px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    /* identical to box height */
+
+    color: #000000;
+
+}
+.label-valor {
+    /* Valor */
+
+    position: absolute;
+    width: 398px;
+    height: 28px;
+    left: 174px;
+    margin-top: 243px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+.data-valor {   
+    /* 1.143.350.000 créditos */
+
+    position: absolute;
+    width: 398px;
+    height: 21px;
+    text-align: center;
+    margin-top: 271px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    /* identical to box height */
+
+    color: #000000;  
+
+}
+.label-cantidad {
+    /* Cantidad pasajeros */
+
+    position: absolute;
+    width: 398px;
+    height: 28px;
+    left: 99px;
+    margin-top: 315px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+
+
+}
+.data-cantidad {
+    /* 38.000 */
+
+    position: absolute;
+    width: 398px;
+    height: 21px;
+    text-align: center;
+    margin-top: 343px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.label-pasajeros {
+    /* Pasajeros */
+
+    position: absolute;
+    width: 398px;
+    height: 42px;
+    text-align: center;
+    margin-top: 11px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+}
+
+.line2 {
+    position: absolute;
+    width: 321px;
+    height: 0px;
+    left: 24px;  
+    margin-top: 55px;
+    border: 1px solid #000000;
+    transform: rotate(0.21deg);
+}
+
+.data-pasajeros {
+    position: absolute;
+    width: 398px;
+    height: 21px;
+    text-align: center;
+    margin-top: 60px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.data-pasajeros p {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}

@@ -1,0 +1,39 @@
+.background {
+    background: url(./resource/image1.jpg);
+    height: 736px;
+    width: 414px;
+};
+
+
+
+body {
+    position: relative;
+    width: 420px;
+    height: 750px;
+    background: #000000;
+};
+
+
+/* .background {
+    /* background: url(./resource/image1.jpg);
+    height: 736px;
+    width: 414px; */
+    /* position: absolute; */
+    /* position: absolute;
+    width: 414px;
+    height: 736px;
+
+    left: -448px;
+    top: 0px;
+
+    background: url(./resource/image1.jpg);
+};
+
+
+
+body {
+    /* position: relative; */
+    /* width: 414px;
+    height: 736px;
+    background: #000000;
+}; */ 

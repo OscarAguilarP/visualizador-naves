@@ -1,0 +1,28 @@
+[
+  {
+    "CWEId": "117",
+    "FlawMatch": {
+      "ProcedureHash": "843608089",
+      "PrototypeHash": "3756927447",
+      "FlawHash": "1708290574",
+      "FlawHashCount": "1",
+      "FlawHashOrdinal": "1",
+      "CauseHash": "4284885398",
+      "CauseHashCount": "1",
+      "CauseHashOrdinal": "1",
+      "CauseHash2": "4013394447",
+      "CauseHash2Ordinal": "1"
+    },
+    "Files": {
+      "SourceFile": {
+        "File": "Selector.js",
+        "Line": "258",
+        "FunctionName": "lambda_3",
+        "QualifiedFunctionName": "lambda_3",
+        "FunctionPrototype": "lambda_3(: any,  : any, ...) : any",
+        "Scope": "UNKNOWN",
+        "AbsoluteFilePath": "/Users/usuarioapiux/Desktop/visualiza-naves/src/components/Selector.js"
+      }
+    }
+  }
+]
